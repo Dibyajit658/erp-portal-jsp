@@ -1,1 +1,41 @@
+ERP SYSTEM PROJECT OVERVIEW
 
+Project Name:
+ERP Portal Using JSP
+
+Description:
+A web-based ERP Portal developed using Java Server Pages (JSP) that provides role-based authentication and separate dashboards for administrators and students.
+
+Modules:
+
+1. Login Module
+- User authentication
+- Role-based access control
+- Session management
+
+2. Admin Module
+- View student information
+- Manage administrative functions
+- Dashboard overview
+
+3. Student Module
+- View attendance
+- View grades
+- Access personal dashboard
+
+Technologies Used:
+- Java
+- JSP
+- HTML
+- CSS
+
+Future Enhancements:
+- MySQL Database Integration
+- CRUD Operations
+- Faculty Management
+- Attendance Management
+- Fee Management
+- Report Generation
+
+Developer:
+Dibyajit Mohapatra
