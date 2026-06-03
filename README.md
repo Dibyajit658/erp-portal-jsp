@@ -1,38 +1,41 @@
 # ERP Portal Using JSP
 
-A simple ERP (Enterprise Resource Planning) Portal developed using Java Server Pages (JSP). The application demonstrates role-based authentication, session management, and separate dashboards for administrators and students.
+A web-based ERP (Enterprise Resource Planning) Portal developed using Java Server Pages (JSP). This project demonstrates role-based authentication, session management, and separate dashboards for administrators and students to manage academic information efficiently.
 
 ## Features
 
-### Login System
-- User authentication using JSP
-- Role-based access control
-- Admin Login
-- Student Login
-- Session management
+### Authentication System
+
+* Secure login functionality
+* Role-based access control
+* Admin and Student login modules
+* Session management
 
 ### Admin Dashboard
-- View total students
-- View pending requests
-- View faculty count
-- Administrative navigation panel
+
+* View total students
+* Monitor pending requests
+* View faculty information
+* Administrative control panel
 
 ### Student Dashboard
-- View attendance records
-- View academic grades
-- Access student information portal
+
+* View attendance records
+* Check academic grades
+* Access student information portal
 
 ## Technologies Used
 
-- Java
-- JSP (Java Server Pages)
-- HTML
-- CSS
+* Java
+* JSP (Java Server Pages)
+* HTML5
+* CSS3
+* Swing Components (UI Elements)
 
 ## Project Structure
 
-```
-login.jsp      - User authentication page
+```text
+login.jsp      - Login page
 admin.jsp      - Administrator dashboard
 student.jsp    - Student dashboard
 ```
@@ -40,172 +43,37 @@ student.jsp    - Student dashboard
 ## Sample Credentials
 
 ### Admin
-Username: admin
-Password: admin123
+
+* Username: admin
+* Password: admin123
 
 ### Student
-Username: student
-Password: student123
+
+* Username: student
+* Password: student123
 
 ## Learning Outcomes
 
-- JSP Fundamentals
-- Session Handling
-- Role-Based Authentication
-- Dashboard Design
-- Web Application Development
+* JSP Development
+* Session Handling
+* User Authentication
+* Role-Based Authorization
+* Dashboard Design
+* Web Application Development
 
 ## Future Enhancements
 
-- MySQL Database Integration
-- Student Record Management
-- Attendance Tracking System
-- Fee Management Module
-- Faculty Management
-- Report Generation
+* MySQL Database Integration
+* Student Record Management
+* Attendance Management System
+* Fee Management Module
+* Faculty Management
+* Report Generation and Analytics
 
 ## Author
 
-Dibyajit Mohapatra
+**Dibyajit Mohapatra**
 
-Aspiring Software Engineer# ERP Portal Using JSP
+MCA Student | Aspiring Software Engineer
 
-A simple ERP (Enterprise Resource Planning) Portal developed using Java Server Pages (JSP). The application demonstrates role-based authentication, session management, and separate dashboards for administrators and students.
-
-## Features
-
-### Login System
-- User authentication using JSP
-- Role-based access control
-- Admin Login
-- Student Login
-- Session management
-
-### Admin Dashboard
-- View total students
-- View pending requests
-- View faculty count
-- Administrative navigation panel
-
-### Student Dashboard
-- View attendance records
-- View academic grades
-- Access student information portal
-
-## Technologies Used
-
-- Java
-- JSP (Java Server Pages)
-- HTML
-- CSS
-
-## Project Structure
-
-```
-login.jsp      - User authentication page
-admin.jsp      - Administrator dashboard
-student.jsp    - Student dashboard
-```
-
-## Sample Credentials
-
-### Admin
-Username: admin
-Password: admin123
-
-### Student
-Username: student
-Password: student123
-
-## Learning Outcomes
-
-- JSP Fundamentals
-- Session Handling
-- Role-Based Authentication
-- Dashboard Design
-- Web Application Development
-
-## Future Enhancements
-
-- MySQL Database Integration
-- Student Record Management
-- Attendance Tracking System
-- Fee Management Module
-- Faculty Management
-- Report Generation
-
-## Author
-
-Dibyajit Mohapatra
-
-Aspiring Software Engineer# ERP Portal Using JSP
-
-A simple ERP (Enterprise Resource Planning) Portal developed using Java Server Pages (JSP). The application demonstrates role-based authentication, session management, and separate dashboards for administrators and students.
-
-## Features
-
-### Login System
-- User authentication using JSP
-- Role-based access control
-- Admin Login
-- Student Login
-- Session management
-
-### Admin Dashboard
-- View total students
-- View pending requests
-- View faculty count
-- Administrative navigation panel
-
-### Student Dashboard
-- View attendance records
-- View academic grades
-- Access student information portal
-
-## Technologies Used
-
-- Java
-- JSP (Java Server Pages)
-- HTML
-- CSS
-
-## Project Structure
-
-```
-login.jsp      - User authentication page
-admin.jsp      - Administrator dashboard
-student.jsp    - Student dashboard
-```
-
-## Sample Credentials
-
-### Admin
-Username: admin
-Password: admin123
-
-### Student
-Username: student
-Password: student123
-
-## Learning Outcomes
-
-- JSP Fundamentals
-- Session Handling
-- Role-Based Authentication
-- Dashboard Design
-- Web Application Development
-
-## Future Enhancements
-
-- MySQL Database Integration
-- Student Record Management
-- Attendance Tracking System
-- Fee Management Module
-- Faculty Management
-- Report Generation
-
-## Author
-
-Dibyajit Mohapatra
-
-GitHub: https://github.com/Dibyajit658
+Java • Python • SQL • MySQL • Web Development
